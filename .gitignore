@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### git push file ###
-git-push.sh
+/git-push.sh
